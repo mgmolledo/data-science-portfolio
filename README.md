@@ -8,7 +8,7 @@ This repository contains a comprehensive data science portfolio featuring profes
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/mgmolledo/data-science-portfolio.git
    cd data-science-portfolio
    ```
 
@@ -28,21 +28,6 @@ This repository contains a comprehensive data science portfolio featuring profes
    # Retail Analytics Dashboard
    python projects/retail-analytics-comprehensive/dashboards/plotly_dash/retail_dashboard.py
    ```
-
-### Heroku Deployment
-
-1. **Push to GitHub**
-   - Ensure your repository is on GitHub
-   - Make sure `requirements.txt` is in the root directory
-
-2. **Deploy on Heroku**
-   - Go to [heroku.com](https://heroku.com)
-   - Create a new app
-   - Connect your GitHub repository
-   - Set buildpack to Python
-   - **Professional deployment ready!**
-
-3. **That's it!** Your apps will deploy automatically
 
 ## 📊 Features
 
@@ -74,7 +59,7 @@ This repository contains a comprehensive data science portfolio featuring profes
 - **Machine Learning**: Scikit-learn, XGBoost, LightGBM
 - **Visualization**: Plotly, Matplotlib, Seaborn
 - **Frontend**: Plotly Dash
-- **Deployment**: Heroku, Docker
+- **Deployment**: Docker
 
 ### AI & Analytics
 - **Natural Language Processing**: Transformers, spaCy
@@ -128,12 +113,6 @@ data-science-portfolio/
 - ✅ **Interactivity**: User-friendly interactive elements
 - ✅ **Responsiveness**: Mobile-friendly dashboards
 - ✅ **Performance**: Optimized loading times
-
-## 🌐 Live Demos
-
-- **AI-Powered BI**: [Local Development - Plotly Dash Dashboard](http://localhost:8050)
-- **Financial Risk Analysis**: [Local Development - Plotly Dash Dashboard](http://localhost:8051)
-- **Retail Analytics**: [Local Development - Plotly Dash Dashboard](http://localhost:8052)
 
 ## 📊 Success Metrics
 
